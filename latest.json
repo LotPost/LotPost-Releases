@@ -1,5 +1,6 @@
 {
-  "latest": "1.0.5",
-  "url": "https://github.com/LotPost/LotPost-Releases/releases/download/1.0.5/LotPost-Setup.exe",
-  "notes": "Reliability improvements and new features."
+  "version": "1.0.6",
+  "url": "https://github.com/LotPost/LotPost-Releases/releases/download/1.0.6/LotPost-Setup.exe",
+  "notes": "LotPost 1.0.6",
+  "pub_date": "2026-06-27T04:21:51.160Z"
 }
